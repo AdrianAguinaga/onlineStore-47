@@ -1,0 +1,16 @@
+Depending on the computer 
+py
+python3 <-- if youre running a Mac (100% of the time this is the one)
+python
+
+to install the virtualenv 
+py -m pip install virtualenv
+
+to create the virtualenv
+py -m venv nameOfTheFolder 
+
+we need to be placed in the folder that contains the venv
+windows venv\Scripts\activate
+Mac   source venv/bin/activate
+
+
