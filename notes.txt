@@ -1,6 +1,6 @@
 Depending on the computer 
 py
-python3 <-- if youre running a Mac (100% of the time this is the one)
+python3 <-- if youre running a Mac (100%)
 python
 
 to install the virtualenv 
