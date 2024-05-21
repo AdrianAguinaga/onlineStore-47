@@ -13,4 +13,14 @@ we need to be placed in the folder that contains the venv
 windows venv\Scripts\activate
 Mac   source venv/bin/activate
 
+//This is for the react project
+to create a react project we need to use the following intruction
+npx create-react-app "name of the folder"
+if for some reason this doesnt work 
+try 
+npm i -g npx and then npx create-react-app "name of the folder" 
 
+to run the server WE NEED TO BE LOCATED IN TO THE FOLDER THAT WE JUST create
+use: npm start
+
+to change directory you need to use -- cd 
